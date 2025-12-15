@@ -55,7 +55,7 @@ Diseño responsive, multilenguaje y modo oscuro.
 
 
 🔹 **Natalia Bril – Sitio web oficial**  
-Web profesional para cantante y docente, con información de clases y contacto.
+Web profesional para cantante y docente, con información de clases y contacto.<br>
 🌐 Web:https://nataliabril.com.ar/<br>
 📁 Repo:https://github.com/MercedesMartGuzzo/natalia-bril-web.git
 
@@ -67,7 +67,7 @@ Proyecto enfocado en usabilidad, diseño responsive y estructura clara de produc
 
 🔹 **E-commerce con React**  
 Aplicación web desarrollada como **trabajo final del curso de ReactJS en Coderhouse**.  
-Incluye catálogo de productos, carrito y navegación por rutas.
+Incluye catálogo de productos, carrito y navegación por rutas.<br>
 🌐 Web:https://proyecto-reactjs-azure.vercel.app/<br>
 📁 Repo:https://github.com/MercedesMartGuzzo/proyecto-reactjs.git
 
