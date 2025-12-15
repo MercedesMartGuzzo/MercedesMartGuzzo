@@ -56,19 +56,19 @@ Diseño responsive, multilenguaje y modo oscuro.
 
 🔹 **Natalia Bril – Sitio web oficial**  
 Web profesional para cantante y docente, con información de clases y contacto.
-🌐 Web:https://nataliabril.com.ar/
+🌐 Web:https://nataliabril.com.ar/<br>
 📁 Repo:https://github.com/MercedesMartGuzzo/natalia-bril-web.git
 
 
 🔹 **La Tienda de Francini – E-commerce**  
 Tienda online desarrollada con **WordPress, WooCommerce y Elementor** para el proyecto final del curso de Wordpress de Coderhouse.  
-Proyecto enfocado en usabilidad, diseño responsive y estructura clara de productos.
+Proyecto enfocado en usabilidad, diseño responsive y estructura clara de productos.<br>
 🌐 Web:https://dev-latiendaefrancini.pantheonsite.io/
 
 🔹 **E-commerce con React**  
 Aplicación web desarrollada como **trabajo final del curso de ReactJS en Coderhouse**.  
 Incluye catálogo de productos, carrito y navegación por rutas.
-🌐 Web:https://proyecto-reactjs-azure.vercel.app/
+🌐 Web:https://proyecto-reactjs-azure.vercel.app/<br>
 📁 Repo:https://github.com/MercedesMartGuzzo/proyecto-reactjs.git
 
 
