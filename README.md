@@ -50,7 +50,7 @@ cuidando tanto el diseño como la claridad del código.
 🔹 **Cristian Basto – Sitio web oficial**  
 Sitio artístico con secciones de biografía, música, partituras, videos y agenda.  
 Diseño responsive, multilenguaje y modo oscuro.  
-🌐 Web:https://cristianbasto.com.ar
+🌐 Web:https://cristianbasto.com.ar<br>
 📁 Repo:https://github.com/MercedesMartGuzzo/cristianbasto.git
 
 
